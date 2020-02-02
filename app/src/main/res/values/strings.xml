@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">BankApplication</string>
+    <string name="menu_settings">Settings</string>
+    <string name="loan_amount_prompt">Loan amount:&#160;&#160;</string>
+    <string name="interest_rate_prompt">Interest rate:&#160;&#160;</string>
+    <string name="loan_period_prompt">Months:&#160;&#160;</string>
+    <string name="loan_button_text">Calculate Payments</string>
+    <string name="monthly_payment_prompt">Monthly payment:&#160;&#160;</string>
+    <string name="total_payments_prompt">Total payments:&#160;&#160;</string>
+    <string name="title_activity_all_bank">AllBank</string>
+
+
+    <string name="amount_prompt">Deposit amount:&#160;&#160;</string>
+
+
+    <string name="period_prompt">Months:&#160;&#160;</string>
+    <string name="button_text">Calculate returns</string>
+    <string name="intrest_prompt">Total Interest:&#160;&#160;</string>
+    <string name="maturity_prompt">Maturity Amount:&#160;&#160;</string>
+
+
+    <string name="select_deposite">Deposit type:&#160;&#160;</string>
+
+    <string-array name="deposit_type">
+        <item>FD</item>
+        <item>RD</item>
+
+    </string-array>
+
+
+    <string-array name="person_name">
+
+        <item>"http://www.andhrabank.in/english/InterestRate.aspx"</item>
+        <item>"http://www.axisbank.com/personal/deposits/interest-rate.aspx"</item>
+        <item>"http://www.bandhanbank.com/Html/Deposits-Interest-Rates.html"</item>
+        <item>"http://www.bankofbaroda.co.in/interest.asp"</item>
+        <item>"http://www.bankofindia.co.in/english/RupeeTermDeposit.aspx"</item>
+        <item>"http://www.bankofmaharashtra.in/int_chart.asp"</item>
+        <item>"http://www.bnb.bt/interest-rates.pdf"</item>
+        <item>"http://www.canarabank.com/English/Scripts/DepositAccounts.aspx"</item>
+        <item>"http://www.csb.co.in/asp/0100text.asp?pageId=43"</item>
+        <item>"https://www.centralbankofindia.co.in/site/interest.aspx"</item>
+        <item>"http://www.cityunionbank.com/english/deposit.aspx"</item>
+        <item>"http://www.corpbank.com/rates_deposit_rate"</item>
+        <item>"http://www.dcbbank.com/cms/showpage/page/deposit-rates"</item>
+        <item>"http://www.denabank.com/viewsection.jsp?id=0,3,21,125"</item>
+        <item>"http://www.dhanbank.com/header/interest_rates.aspx"</item>
+        <item>"http://www.federalbank.co.in/deposit-rate"</item>
+        <item>"https://www.hdfcbank.com/personal/interest-rates?accordname=accordian2"</item>
+        <item>"http://www.icicibank.com/interest-rates.page"</item>
+        <item>"http://www.idbi.com/interest-rates.asp"</item>
+        <item>"http://www.bankfdrates.in/idfc-bank-fd-rates.html"</item>
+        <item>"http://www.indian-bank.com/rate_deposit.php"</item>
+        <item>"https://www.iob.in/Rates_at_a_glance.aspx"</item>
+        <item>"www.indusind.com/footer/rates.html"</item>
+        <item>"http://www.jkbank.net/intRates.php"</item>
+
+
+
+
+    </string-array>
+
+
+    <string-array name="person_mobile">
+
+        <item>"123647859"</item>
+        <item>"123456789"</item>
+        <item>"741258933"</item>
+        <item>"123647859"</item>
+        <item>"123456789"</item>
+        <item>"741258933"</item>
+        <item>"123647859"</item>
+        <item>"123456789"</item>
+        <item>"741258933"</item>
+        <item>"123647859"</item>
+        <item>"123456789"</item>
+        <item>"741258933"</item>
+        <item>"123647859"</item>
+        <item>"123456789"</item>
+        <item>"741258933"</item>
+        <item>"123647859"</item>
+        <item>"123456789"</item>
+        <item>"741258933"</item>
+        <item>"123647859"</item>
+        <item>"123456789"</item>
+        <item>"741258933"</item>
+        <item>"123647859"</item>
+        <item>"123456789"</item>
+        <item>"741258933"</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+</resources>
